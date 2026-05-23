@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project is an interactive **Multi-Page Power BI Dashboard** created to analyze Ola ride booking data and generate meaningful business insights.
 
+The project demonstrates the complete **Data Analytics workflow** from SQL data cleaning to interactive dashboard creation in Power BI.
+
 The dashboard helps in understanding:
 - Ride booking trends
 - Revenue performance
@@ -12,6 +14,27 @@ The dashboard helps in understanding:
 - Customer & Driver ratings
 
 The project focuses on transforming raw ride data into an interactive and visually appealing business intelligence solution.
+
+---
+
+# 📌 Project Workflow
+
+## 1️⃣ Data Cleaning using SQL
+- Removed null values
+- Cleaned inconsistent data
+- Prepared structured dataset for analysis
+- Improved data quality for accurate reporting
+
+## 2️⃣ Data Transformation using Power Query
+- Data formatting
+- Column transformation
+- Data preparation
+- Data modeling support
+
+## 3️⃣ Data Visualization using Power BI
+- Created interactive multi-page dashboards
+- Added KPI cards, slicers, charts, and tables
+- Generated business insights from ride booking data
 
 ---
 
@@ -97,12 +120,12 @@ This dashboard analyzes customer and driver ratings for different vehicle catego
 ---
 
 # 🛠 Tools & Technologies Used
+- SQL (Data Cleaning & Data Preparation)
 - Power BI Desktop
 - Power Query
 - DAX
-- Data Cleaning
-- Data Transformation
 - Data Visualization
+- Data Transformation
 
 ---
 
@@ -114,11 +137,13 @@ This dashboard analyzes customer and driver ratings for different vehicle catego
 - Interactive Reporting
 - Analytical Thinking
 - Storytelling with Data
+- SQL Data Cleaning
+- Data Transformation
 
 ---
 
 # 🎯 Project Objective
-The main objective of this project is to convert raw Ola ride booking data into actionable business insights using Power BI.
+The main objective of this project is to convert raw Ola ride booking data into actionable business insights using SQL and Power BI.
 
 This dashboard helps stakeholders:
 - Monitor business performance
@@ -129,7 +154,8 @@ This dashboard helps stakeholders:
 ---
 
 # 📷 Dashboard Preview
-(https://github.com/Swapnil-2105/Ola_Dashboard_Swapnil/blob/main/Dashboard_look.png)
+
+![Dashboard Preview](https://raw.githubusercontent.com/Swapnil-2105/Ola_Dashboard_Swapnil/main/Dashboard_look.png)
 
 ---
 
@@ -143,11 +169,13 @@ This dashboard helps stakeholders:
 ---
 
 # 👨‍💻 Author
-Swapnil Kamble
+## Swapnil Kamble
 
-## 📬 Connect With Me
-- LinkedIn: (https://www.linkedin.com/in/-swapnilkamble/)
-- GitHub: (Add your GitHub profile)
+---
+
+# 📬 Connect With Me
+- LinkedIn: [Swapnil Kamble](https://www.linkedin.com/in/-swapnilkamble/)
+- GitHub: [Swapnil-2105](https://github.com/Swapnil-2105)
 
 ---
 
