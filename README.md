@@ -1,1 +1,154 @@
-# Ola_Dashboard_Swapnil
+# 🚖 Ola Ride Analytics Dashboard | Power BI Project
+
+## 📌 Project Overview
+This project is an interactive **Multi-Page Power BI Dashboard** created to analyze Ola ride booking data and generate meaningful business insights.
+
+The dashboard helps in understanding:
+- Ride booking trends
+- Revenue performance
+- Vehicle-wise analysis
+- Cancellation behavior
+- Payment methods
+- Customer & Driver ratings
+
+The project focuses on transforming raw ride data into an interactive and visually appealing business intelligence solution.
+
+---
+
+# 📊 Dashboard Pages
+
+## 1️⃣ Overall Dashboard
+The overall dashboard provides a summary of the complete ride booking performance.
+
+### Features:
+- Total Bookings KPI
+- Total Booking Value
+- Booking Status Breakdown
+- Ride Volume Trend
+- Interactive Date Filter
+
+### Insights:
+- Successful bookings dominate overall rides
+- Ride volume trends can be tracked over time
+- Booking patterns become easy to analyze
+
+---
+
+## 2️⃣ Vehicle Type Analysis
+This page analyzes the performance of different vehicle categories.
+
+### Features:
+- Vehicle-wise Booking Value
+- Success Booking Value
+- Average Distance Travelled
+- Total Distance Covered
+
+### Insights:
+- Compare vehicle performance
+- Identify high revenue generating vehicle types
+- Analyze travel distance trends
+
+---
+
+## 3️⃣ Revenue Analysis
+This dashboard focuses on payment and revenue insights.
+
+### Features:
+- Revenue by Payment Method
+- Top Customers
+- Revenue Distribution Treemap
+
+### Insights:
+- Understand preferred payment methods
+- Identify top revenue-generating customers
+- Analyze revenue contribution trends
+
+---
+
+## 4️⃣ Cancellation Analysis
+This page analyzes ride cancellations from both customer and driver perspectives.
+
+### Features:
+- Cancellation Rate KPI
+- Driver Cancellation Reasons
+- Customer Cancellation Reasons
+- Booking Summary KPIs
+
+### Insights:
+- Identify major cancellation causes
+- Understand operational issues
+- Improve ride success rates
+
+---
+
+## 5️⃣ Ratings Analysis
+This dashboard analyzes customer and driver ratings for different vehicle categories.
+
+### Features:
+- Driver Ratings
+- Customer Ratings
+- Vehicle-wise Rating Comparison
+
+### Insights:
+- Measure service quality
+- Compare customer satisfaction across vehicle types
+- Identify improvement areas
+
+---
+
+# 🛠 Tools & Technologies Used
+- Power BI Desktop
+- Power Query
+- DAX
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+
+---
+
+# 📈 Key Skills Demonstrated
+- Business Intelligence
+- Dashboard Designing
+- Data Visualization
+- KPI Reporting
+- Interactive Reporting
+- Analytical Thinking
+- Storytelling with Data
+
+---
+
+# 🎯 Project Objective
+The main objective of this project is to convert raw Ola ride booking data into actionable business insights using Power BI.
+
+This dashboard helps stakeholders:
+- Monitor business performance
+- Track revenue trends
+- Analyze customer behavior
+- Improve operational efficiency
+
+---
+
+# 📷 Dashboard Preview
+(Add your dashboard screenshots here)
+
+---
+
+# 🚀 Future Improvements
+- Add real-time data integration
+- Create predictive analytics
+- Add advanced DAX calculations
+- Improve UI/UX design
+- Add map visualizations
+
+---
+
+# 👨‍💻 Author
+Swapnil Kamble
+
+## 📬 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/-swapnilkamble/)
+- GitHub: (Add your GitHub profile)
+
+---
+
+⭐ If you liked this project, feel free to give it a star!
