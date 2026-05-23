@@ -129,7 +129,7 @@ This dashboard helps stakeholders:
 ---
 
 # 📷 Dashboard Preview
-(Add your dashboard screenshots here)
+(https://github.com/Swapnil-2105/Ola_Dashboard_Swapnil/blob/main/Dashboard_look.png)
 
 ---
 
